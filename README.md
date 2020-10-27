@@ -29,6 +29,7 @@ where `<datadir>` is where the data is saved (example `.tmp/data`), and  `<saved
 
 ## Citation
 
+```
 @inproceedings{laradji2020looc,
   title={Looc: Localize Overlapping Objects with Count Supervision},
   author={Laradji, Issam H and Pardinas, Rafael and Rodriguez, Pau and Vazquez, David},
@@ -37,3 +38,4 @@ where `<datadir>` is where the data is saved (example `.tmp/data`), and  `<saved
   year={2020},
   organization={IEEE}
 }
+```
