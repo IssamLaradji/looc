@@ -3,7 +3,7 @@
 ## LOOC: Localize Overlapping Objects with Count Supervision (ICIP2020)
 #### It uses an attention mechanism to learn from the most confident regions in order to infer predictions in the less confident ones.</h5>
 
-[[Paper](https://arxiv.org/pdf/2007.01837.pdf)] 
+[[Paper](https://arxiv.org/pdf/2007.01837.pdf)] [[Slides]](docs/1935.pdf)
 
 ![](docs/looc.jpeg)
 
